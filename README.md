@@ -8,9 +8,12 @@ This repository includes the code used to control for the "master" Arduino and t
 
 ## Links
 For more information on how the system works, please look at the following three links:
+
 (University of Calgary Capstone Webpage)
 https://engineeringdesignfair.ucalgary.ca/electrical/train-simulation-system-for-wayside-equipment-testing/
+
 (Short video explaining full project)
 https://www.youtube.com/watch?v=uUO5qHXPe3A&ab_channel=AsadAnjum
+
 (Short video demonstrating user interface and controls)
 https://youtu.be/CfxSX29fn40
